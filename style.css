@@ -72,9 +72,9 @@ nav > a{
     color: white;
     text-decoration: none;
     font-weight: bold;
-    margin: 0px 5px;   
+    margin: 0px 8px;   
     white-space: nowrap;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 nav > a:hover{
